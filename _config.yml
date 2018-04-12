@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 
 # Exclude from processing.
