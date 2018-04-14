@@ -6,6 +6,11 @@ author: keithrbennett
 
 Our first post is a voice interview I did with Corey Haines in Dulles, Virginia, on August 18, 2011.
 
+You can download it [here](/assets/audio/corey-haines-dulles-hyatt-2011-08-18.mp3) or listen to it using the player below:
+<audio src="/assets/audio/corey-haines-dulles-hyatt-2011-08-18.mp3" controls preload>
+Corey Haines Podcast Audio
+</audio>
+
 In the first part of the interview Corey tells us about his inspiring and unconventional journey, which began with, of all things, being fired from his job.  He immediately picked himself up and planned his next move.  Thinking outside the box, he set out to teach and learn from his colleagues in the technical community, starting with David Chelimsky of RSpec fame.  That is, he *literally* set out, visiting them for up to a week at a time, sleeping on couches, absorbing their wisdom, passing it on to the next people and offering some of his own.  Corey is now an internationally known and respected member of the Ruby community, leading code retreats all over the world.
 
 In the second part Corey shares his observations about organizations, teams, and individuals in the workplace.  Here are some of my favorite quotes from it:
