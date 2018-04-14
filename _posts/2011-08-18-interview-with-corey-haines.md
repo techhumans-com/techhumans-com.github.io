@@ -1,5 +1,5 @@
 ---
-title: Interview with Corey Haines
+title: Corey Haines' Excellent Adventure (Interview)
 date: 2011-08-18
 author: keithrbennett
 ---
