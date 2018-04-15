@@ -30,3 +30,82 @@ In the second part Corey shares his observations about organizations, teams, and
 "Software development is a very social activity."
 
 I hope you enjoy listening to this interview as much as I did (several times).
+
+----
+
+### Show Notes
+
+##### 00:20 – The adventures of Corey Haines and traveling around the world
+* Spending time with people with different experience levels and personality types
+* Meeting people and building a network 
+* Connecting people together
+
+##### 02:00 – Tendencies to work in a very insulated community
+* Working around others gives you a view of where you stand between them
+* These people are better than me/I’m better than those people
+* Self-realization in skills; what I’m good at/what I’m lacking
+
+##### 03:05 – Finding people and having them find you
+* Pairing for room and board
+* Video interviews with everybody he stayed with
+* People started noticing Corey; he acquired notoriety on Twitter
+* People started inviting him to visit them
+
+##### 12:30 – All of the above stemmed from a “negative event”: getting fired
+* Firing people who just don’t fit in is an effective company practice
+* Support after getting fired helped to lift him back up
+
+##### 16:25 – Establishing a reputation within the Agile community
+* Talking to people
+* Shaking hands
+* Attending conferences
+* Forced himself to meet people and overcome shyness
+* Became more able to hold a conversation
+
+##### 19:40 – Corey and Ruby
+* Previously using the Microsoft ecosystem 
+* Professional programmer since 1996 
+* First Ruby he ever wrote was in 2006
+
+##### 23:50 – Different ways of doing things/insights
+* Small teams work best
+* Internalizing extreme programming 
+* Agile versus software development 
+* Giving the most value to clients
+
+##### 28:07 – Hiring the best people for a job
+* You can bring inexperienced people in
+* Treat them as equals and mentor those who want to learn. Cut the ones who don’t
+* Software development is a very social activity
+
+##### 29:45 – Effective ways of collaborating
+* Big open room
+* Big huge monitors
+* Live input devices for everybody 
+* Being co-located
+* Companies that eat together
+
+##### 32:15 – Who to pair with and when
+* It depends on an individual’s time cycle
+
+#####  33:35 – People who resist pair programming
+* Not an easy skill to learn
+* Resist because they’ve never had an effective pairing session
+
+##### 37:06 – Leadership
+* Engaged in day to day activity
+* Want to see people succeed
+* Participate in meetings
+* Good philosophies on software and people
+
+##### 38:08 – Learning new technology to do your job
+* Set aside time to focus on practicing it
+* Your company should not get paid by their clients to learn technology
+* Good companies want you to learn
+
+##### 44:40 – Where is Corey today (as of interview, August 2011)?
+* Lives in Chicago
+* Working on a start-up app with his girlfriend called Mercury App–an application to help individuals and teams make better decisions
+* Side projects
+  * Internal training at companies and talking about taking time to practice
+  * Code Retreats
