@@ -8,7 +8,7 @@ Our first post is a voice interview I did with Corey Haines in Dulles, Virginia,
 
 You can download it [here](/assets/audio/corey-haines-dulles-hyatt-2011-08-18.mp3) or listen to it using the player below:
 <audio src="/assets/audio/corey-haines-dulles-hyatt-2011-08-18.mp3" controls preload>
-Corey Haines Podcast Audio
+  Your browser does not support playing audio.
 </audio>
 
 In the first part of the interview Corey tells us about his inspiring and unconventional journey, which began with, of all things, being fired from his job.  He immediately picked himself up and planned his next move.  Thinking outside the box, he set out to teach and learn from his colleagues in the technical community, starting with David Chelimsky of RSpec fame.  That is, he *literally* set out, visiting them for up to a week at a time, sleeping on couches, absorbing their wisdom, passing it on to the next people and offering some of his own.  Corey is now an internationally known and respected member of the Ruby community, leading code retreats all over the world.
@@ -31,81 +31,40 @@ In the second part Corey shares his observations about organizations, teams, and
 
 I hope you enjoy listening to this interview as much as I did (several times).
 
+\- Keith
+
 ----
 
-### Show Notes
+<br />
+<br />
 
-##### 00:20 – The adventures of Corey Haines and traveling around the world
-* Spending time with people with different experience levels and personality types
-* Meeting people and building a network 
-* Connecting people together
 
-##### 02:00 – Tendencies to work in a very insulated community
-* Working around others gives you a view of where you stand between them
-* These people are better than me/I’m better than those people
-* Self-realization in skills; what I’m good at/what I’m lacking
+### Audio Sections
 
-##### 03:05 – Finding people and having them find you
-* Pairing for room and board
-* Video interviews with everybody he stayed with
-* People started noticing Corey; he acquired notoriety on Twitter
-* People started inviting him to visit them
+00:20 – The adventures of Corey Haines and traveling around the world
 
-##### 12:30 – All of the above stemmed from a “negative event”: getting fired
-* Firing people who just don’t fit in is an effective company practice
-* Support after getting fired helped to lift him back up
+02:00 – Tendencies to work in a very insulated community
 
-##### 16:25 – Establishing a reputation within the Agile community
-* Talking to people
-* Shaking hands
-* Attending conferences
-* Forced himself to meet people and overcome shyness
-* Became more able to hold a conversation
+03:05 – Finding people and having them find you
 
-##### 19:40 – Corey and Ruby
-* Previously using the Microsoft ecosystem 
-* Professional programmer since 1996 
-* First Ruby he ever wrote was in 2006
+12:30 – All of the above stemmed from a “negative event”: getting fired
 
-##### 23:50 – Different ways of doing things/insights
-* Small teams work best
-* Internalizing extreme programming 
-* Agile versus software development 
-* Giving the most value to clients
+16:25 – Establishing a reputation within the Agile community
 
-##### 28:07 – Hiring the best people for a job
-* You can bring inexperienced people in
-* Treat them as equals and mentor those who want to learn. Cut the ones who don’t
-* Software development is a very social activity
+19:40 – Corey and Ruby
 
-##### 29:45 – Effective ways of collaborating
-* Big open room
-* Big huge monitors
-* Live input devices for everybody 
-* Being co-located
-* Companies that eat together
+23:50 – Different ways of doing things/insights
 
-##### 32:15 – Who to pair with and when
-* It depends on an individual’s time cycle
+28:07 – Hiring the best people for a job
 
-#####  33:35 – People who resist pair programming
-* Not an easy skill to learn
-* Resist because they’ve never had an effective pairing session
+29:45 – Effective ways of collaborating
 
-##### 37:06 – Leadership
-* Engaged in day to day activity
-* Want to see people succeed
-* Participate in meetings
-* Good philosophies on software and people
+32:15 – Who to pair with and when
 
-##### 38:08 – Learning new technology to do your job
-* Set aside time to focus on practicing it
-* Your company should not get paid by their clients to learn technology
-* Good companies want you to learn
+33:35 – People who resist pair programming
 
-##### 44:40 – Where is Corey today (as of interview, August 2011)?
-* Lives in Chicago
-* Working on a start-up app with his girlfriend called Mercury App–an application to help individuals and teams make better decisions
-* Side projects
-  * Internal training at companies and talking about taking time to practice
-  * Code Retreats
+37:06 – Leadership
+
+38:08 – Learning new technology to do your job
+
+44:40 – Where is Corey today (as of interview, August 2011)?
