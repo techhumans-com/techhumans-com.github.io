@@ -64,10 +64,27 @@ Here are examples of some places that have worked well for us (we are in the Res
 
 If you have a _really_ hard time finding a venue, it's time to start thinking further outside the box -- a hospital cafeteria, a public park, a train station, a group member's home or backyard...
 
+##### Group Size
+
+Unless it's all about your ego (and hopefully it's not), don't measure success by your group size. Large groups are unwieldy and can be logistically unworkable. My favorite group size is 6 - 8.
+
+I like at least 6 because I find it more interesting to hear a greater diversity of experiences and thoughts.
+
+I like no more than 8 because any larger size invariably results in multiple simultaneous conversations. This kills group unity. I don't want to miss hearing about what's happening in the lives of some of my friends. Sometimes, I'm forced by my location at the table to participate in a conversation in which I'm not interested. This is especially problematic if there is someone especially talkative and assertive. When this happens, I might say something like "excuse me, but I don't want to miss what they're saying -- should we have one conversation, or would you be willing to switch seats with me so that you can continue your conversation?"  I'm not shy about this, and encourage you not to be either.
+
+So, paradoxically, I find that groups larger than 8 result in _less_ interaction than groups of 6 - 8.
+
+
+
+
+
 ----
 
-Don't be concerned about large size. Quality of interactions is optimal where there is one conversation, and the maximum for that is about 8 people.
 
 If a large group, and practical, feel free to move around.
 
 Ask for help, for information, job leads, etc.
+
+Equalize participation; be proactive if necessary.
+
+Go around the table.
