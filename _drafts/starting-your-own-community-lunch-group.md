@@ -104,7 +104,7 @@ Different groups will have different preferences as to format and formality, but
 
 Sometimes the actions of a facilitator may be needed, to ensure that the _meta_ is in sync with the wishes of the group. By _meta_, I mean observation, discussion, and, if necessary, realignment of the discussion itself.
 
-There doesn't necessarily need to be an assigned facilitator, these responsibilities can be shared by all.
+There doesn't necessarily need to be an assigned facilitator; these responsibilities can be shared by all.
 
 Here are some examples of situations that might require facilitation:
 
