@@ -1,4 +1,9 @@
-----
+---
+title: Clinics in Your Meetups
+date: 2020-01-16
+author: keithrbennett
+---
+
 
 Information sharing at technical meetings consists almost exclusively of presentations. Although we all understand the value of having an expert share expertise with the rest of us, the cultural bias towards one-to-many communication results in many lost opportunities for cross-fertilization of knowledge and cultivation of connections among the group.
 
@@ -11,14 +16,14 @@ We are all familiar with presentations, so I will mainly talk about discussions 
 
 #### Multiple Sources of Information
 
-It's rare that a single person possesses all the knowledge in the room. When anyone can speak, we are more likely to get higher quality information.
+It's rare that a single person possesses all the knowledge in the room. When _anyone_ can speak, we are more likely to get higher quality information. (Of course, we are also more likely to get low quality information but the group can usually recognize and neutralize it.)
 
 
 #### Dialog vs. Monologue
 
-In a presentation, the information is assumed to be going in one direction, from the speaker to everyone else. Any discussion is normally for clarification of that unidirectional information flow.
+In a presentation, the information is assumed to be flowing in one direction, from the speaker to everyone else. Any discussion is normally for clarification of that unidirectional information flow.
 
-In contrast, in a more conversational medium conducive to dialog, people 
+In contrast, in a more _conversational_ medium, people 
 are more likely to participate in the conversation, resulting in greater depth and breadth of the information flow, as ideas bounce from person to person.
 
 
@@ -29,7 +34,11 @@ There is a synergy in discussions that is absent in presentations. In discussion
 
 #### Community Development
 
-People who may have not uttered a word in months of presentations can feel empowered to, and be encouraged to, speak in discussions, even if only to ask questions. The assumption of multiple participants encourages those other than the wizards of the group to offer their thoughts. From this interaction springs familiarity, and from familiarity springs friendship and community (not to mention jobs sometimes).
+People who may have not uttered a word in months of presentations may feel more comfortable doing so in a discussion. They should be actively encouraged, even if it's to ask a question. 
+
+There will likely be "wizards" in the group, members who are recognizably more knowledgeable than the others. It is natural for the others to feel intimidated and refrain from speaking. They may need to be actively encouraged (ideally by the wizards themselves).
+ 
+From discussion springs familiarity, and from familiarity springs friendship and community (not to mention jobs sometimes). It even enhances productivity, in that a relationship has formed such that people will feel more comfortable consulting each other outside of the discussions.
 
 
 ## Clinics, in Particular
@@ -40,7 +49,9 @@ The key benefit of the clinic is that participants are likely to receive the inf
  
 Presentations, on the other hand, cover subjects that can be so specialized as to be irrelevant and uninteresting, and if they consume the entire meeting, new participants may not want to return. (I realize that this applies to my own presentations as well.) 
 
- 
+As mentioned previously, the optimal frequency and duration depends on the group.  A fifteen minute clinic between presentations, or before they begin, at every meeting, could be a good starting point.
+
+I describe at the bottom of this article my experience facilitating an internal organization Ruby clinic.<sup id="a1">[[1](#f1)]</sup>
  
 #### Structure
 
@@ -51,7 +62,7 @@ The clinic can be totally free form, but I recommend a meta-discussion at the be
 
 It's helpful to have a shared screen. This is automatic if you are using collaboration software, but if you're in a physical room together, you'll need a projector or large shared monitor to be most productive.
 
-You may have a single machine which will be shared by everyone. I recommend a wireless keyboard and mouse; it can easily be passed around for anyone to use.
+Whether you have a single machine which will be shared by everyone, or everyone uses their own computer, I recommend bringing a wireless keyboard and mouse to the clinic; it lowers the barrier for _other_ people to take the driver seat.
 
 
 #### Level of Effort
@@ -66,29 +77,27 @@ At minimum, clinics can be used as a fallback activity when unable to find a spe
 
 #### Duration
 
-There is no real minimum time, nor a need for its own sake that the time be consistent from meeting to meeting. For example, if a meeting normally has two presentations, the clinic could be limited to fifteen minutes. If there is only one presentation, the clinic could be expanded to fill that time slot.
+There is no real minimum time, nor a need for its own sake that the time be consistent from meeting to meeting. For example, if a meeting normally has two presentations, the clinic could be limited to fifteen minutes. If there is only one presentation, the clinic could be expanded to fill that missing speaker's time slot.
 
-If people notify the group of issues in advance (e.g. on a Meetup page) then this duration could be adjusted accordingly.
+If people notify the group of issues in advance (e.g. on a Meetup page) then organizers would have more information with which to adjust the duration accordingly.
 
 
 #### Clinics for Dev Teams
 
-Clinics aren't good only for meetups -- they can be even more valuable for development teams, where the participants' work share more in common.
+Clinics aren't good only for meetups -- they can be even more valuable for development teams, where in addition to the shared languages and frameworks, they work with the same organizational code base and environment.
 
-----
 
-## Counterpoints
+## Cautions and Counterpoints
 
-Sometimes the one really does know more than all of the others.
-Presentations have their place too, of course. This is the medium in which someone who has delved deeply into a subject can share knowledge
+There is a risk that the clinics would gravitate towards beginner issues that would bore the more advanced users, or advanced subjects that would be incomprehensible to the more beginning users. Facilitators need to keep a close eye on this. If it's a short clinic this might be fine, but if it's a substantial portion of the meeting, it could drive people away. Other options could partially replace the clinic, such as a supplemental beginners meeting once a month.
 
 
 
 ----
 
-### My Ruby Clinic
+#### Footnotes:
 
-A few years ago I was working at a network services company, among other things, writing software that could be used to more effectively test their products.
+<b id="f1">[1]</b>A few years ago I was working at a network services company, among other things, writing software that could be used to more effectively test their products.
 
 At the same time, they were automating their software testing to use Ruby and Cucumber. There were whole teams of software testers new to those technologies, and even programming in general. They were provided training, but after that training they were on their own.
  
@@ -98,10 +107,4 @@ I encouraged them to show things they had learned, and to help each other.
 
 ----
 
-
-
-forge relationships
-
-bringing clinics to tech teams
-
-encouraging shy people
+This article may be improved over time. To see its revisions you can go to its [Github commit history](https://github.com/techhumans-com/techhumans-com.github.io/commits/master/_drafts/2020-01-16-ruby-clinics.md).
