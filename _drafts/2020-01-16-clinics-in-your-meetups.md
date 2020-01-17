@@ -91,6 +91,9 @@ Clinics aren't good only for meetups -- they can be even more valuable for devel
 
 There is a risk that the clinics would gravitate towards beginner issues that would bore the more advanced users, or advanced subjects that would be incomprehensible to the more beginning users. Facilitators need to keep a close eye on this. If it's a short clinic this might be fine, but if it's a substantial portion of the meeting, it could drive people away. Other options could partially replace the clinic, such as a supplemental beginners meeting once a month.
 
+Darin Wilson points out: "The Q&A format can be good, but I think you have to put some effort into managing group dynamics.
+The trouble with any Q&A session is that they self-select for folks who are comfortable speaking out loud in a group setting. The larger the group, the more pronounced this effect will be. Also, if you have one or two individuals who really like to hear themselves talk, they can end up dominating the discussion.
+If you have a smallish group that already knows each other, this can be easier to manage. But if you have a larger group and/or folks don’t know each other very well, the moderator will probably need to make some extra effort to make sure that everyone feels welcome to participate, and that the discussion isn’t dominated by the over-talkers."
 
 
 ----
