@@ -49,7 +49,7 @@ The key benefit of the clinic is that participants are likely to receive the inf
  
 Presentations, on the other hand, cover subjects that can be so specialized as to be irrelevant and uninteresting, and if they consume the entire meeting, new participants may not want to return. (I realize that this applies to my own presentations as well.) 
 
-As mentioned previously, the optimal frequency and duration depends on the group.  A fifteen minute clinic between presentations, or before they begin, at every meeting, could be a good starting point.
+As mentioned previously, the optimal frequency and duration of the clinic depends on the group.  A fifteen minute clinic between presentations, or before they begin, at every meeting, could be a good starting point.
 
 I describe at the bottom of this article my experience facilitating an internal organization Ruby clinic.<sup id="a1">[[1](#f1)]</sup>
  
@@ -67,8 +67,7 @@ Whether you have a single machine which will be shared by everyone, or everyone 
 
 #### Level of Effort
 
-One of many great things about clinics is that they require zero preparation. Advance notice of questions can be helpful for those who wish to prepare, but it's not at all necessary.
-
+One of many great things about clinics is that they require zero preparation. The group may want to propose topics in advance, but it's not absolutely necessary.
 
 #### Frequency
 
@@ -79,7 +78,7 @@ At minimum, clinics can be used as a fallback activity when unable to find a spe
 
 There is no real minimum time, nor a need for its own sake that the time be consistent from meeting to meeting. For example, if a meeting normally has two presentations, the clinic could be limited to fifteen minutes. If there is only one presentation, the clinic could be expanded to fill that missing speaker's time slot.
 
-If people notify the group of issues in advance (e.g. on a Meetup page) then organizers would have more information with which to adjust the duration accordingly.
+If people notify the group of issues in advance (e.g. on a Meetup page or on Slack) then organizers would have more information with which to adjust the duration.
 
 
 #### Clinics for Dev Teams
@@ -89,11 +88,26 @@ Clinics aren't good only for meetups -- they can be even more valuable for devel
 
 ## Cautions and Counterpoints
 
-There is a risk that the clinics would gravitate towards beginner issues that would bore the more advanced users, or advanced subjects that would be incomprehensible to the more beginning users. Facilitators need to keep a close eye on this. If it's a short clinic this might be fine, but if it's a substantial portion of the meeting, it could drive people away. Other options could partially replace the clinic, such as a supplemental beginners meeting once a month.
+There is a risk that the clinics would gravitate towards beginner issues that would bore the more advanced users, or advanced subjects that would be incomprehensible to the more beginning users. Facilitators need to keep a close eye on this. If it's a short clinic this might be fine, but if it's a substantial portion of the meeting, it could drive people away. Other options could partially replace the clinic, such as a supplemental beginners meeting once a month. 
+
+The topics chosen (if there are enough to select from among them) could be selected to balance against the presentation. For example, if the presentation is very advanced, then the the more beginning clinic topics might be selected for discussion.
 
 Darin Wilson points out: "The Q&A format can be good, but I think you have to put some effort into managing group dynamics.
 The trouble with any Q&A session is that they self-select for folks who are comfortable speaking out loud in a group setting. The larger the group, the more pronounced this effect will be. Also, if you have one or two individuals who really like to hear themselves talk, they can end up dominating the discussion.
 If you have a smallish group that already knows each other, this can be easier to manage. But if you have a larger group and/or folks don’t know each other very well, the moderator will probably need to make some extra effort to make sure that everyone feels welcome to participate, and that the discussion isn’t dominated by the over-talkers."
+
+I agree that this is definitely something to look out for, and yet if the goal is to provide solutions, then there may indeed be a couple of experts who possess most of the information. The facilitator needs to balance the need for solutions with the need to cultivate universal participation.
+
+## Conclusion
+
+I describe in this article a solution that has worked for me, but of course there is an infinite number of combinations of attributes of a clinic, and your optimal mix may differ from mine. Any discussion can be engaging and informative, but for me the essentials of a _clinic_ are:
+
+* help people get the information they most need at the time
+* strive for universal and balanced participation
+* balance the mix of levels of expertise for the questions within the clinic, and with the presentations
+
+You may have noticed that _clinic_ is a fancy name for Q & A. It doesn't really matter what you call it. The key points are that it is many-to-many communication with the objective to address participants' most pressing questions.
+
 
 
 ----
