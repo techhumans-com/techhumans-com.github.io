@@ -7,7 +7,7 @@ author: keithrbennett
 
 Information sharing at technical meetings consists almost exclusively of presentations. Although we all understand the value of having an expert share expertise with the rest of us, our cultural bias towards one-to-many communication results in many lost opportunities for cross-fertilization of knowledge and cultivation of connections among the group.
 
-A many-to-many medium of communication such as a discussion or clinic provides an environment in which knowledge, ideas, and solutions can emanate from, and be received by, anyone.
+In contrast, a many-to-many medium of communication such as a discussion or clinic provides an environment in which knowledge, ideas, and solutions can emanate from, and be received by, anyone.
 
 I am not advocating _replacing_ presentations with discussions. Rather, I am advocating an optimal balance of the two. Where this optimal point falls will depend on the group.
 
@@ -49,9 +49,9 @@ From discussion springs familiarity, and from familiarity springs friendship and
 
 The _clinic_ is a specialized form of discussion where people share their problems, challenges, and discoveries.
 
-The key benefit of the clinic is that participants are likely to receive the information that is most valuable and helpful to them _at the time_. Also, the entire group is involved in finding the solution. For both of these reasons, clinics can be far more engaging than presentations.
- 
-As mentioned previously, the optimal frequency and duration of the clinic depends on the group.  A fifteen minute clinic between presentations, or before they begin, at every meeting, could be a good starting point.
+The key benefit of the clinic is that participants are likely to receive the information that is most valuable and helpful to them _at the time_. 
+
+In addition, the entire group is involved in finding the solution. Everyone is "on call". This can result in greater engagement and energy.
 
 I describe at the bottom of this article my experience facilitating an internal organization Ruby clinic.<sup id="a1">[[1](#f1)]</sup>
  
