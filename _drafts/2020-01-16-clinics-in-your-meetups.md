@@ -108,6 +108,12 @@ If you have a smallish group that already knows each other, this can be easier t
 
 I agree that this is definitely something to look out for, but more applicable to general discussions than clinics. If the goal is to provide solutions, then there may indeed be a couple of experts who possess most of the relevant information. The facilitator needs to balance the need for solutions with the need to cultivate universal participation.
 
+@josephglass says: "I’ve found clinics to be very engaging but they also require more “crowd management”. With a well-prepared presentation, the quality largely depends on the speaker, and will be pretty much the same wherever it's presented.
+ 
+"Clinics on the other hand depend on the quality of the participants. It might turn out to be a fantastic conversation of people sharing expertise and forming connections. Or maybe one over-talkative participant will hijack the conversation into irrelevant tangents. It can be a bit of a gamble unless you know the community you’re working with or have a really good moderator."
+
+Indeed, a really good moderator is the key. Perhaps that is a whole 'nother article. Anyone want to write it? :)
+
 ## Conclusion
 
 I describe in this article a solution that has worked for me, but of course there is an infinite number of combinations of attributes of a clinic, and your optimal mix may differ from mine. Any discussion can be engaging and informative, but for me the essentials of a _clinic_ are:
