@@ -102,13 +102,13 @@ There is a risk that the clinics would gravitate towards beginner issues that wo
 
 The topics chosen (if there are enough to select from among them) could be selected to balance against the presentation. For example, if the presentation is very advanced, then the the more beginning clinic topics might be selected for discussion.
 
-Darin Wilson points out: "The Q&A format can be good, but I think you have to put some effort into managing group dynamics.
+[Darin Wilson](https://twitter.com/darinwilson) points out: "The Q&A format can be good, but I think you have to put some effort into managing group dynamics.
 The trouble with any Q&A session is that they self-select for folks who are comfortable speaking out loud in a group setting. The larger the group, the more pronounced this effect will be. Also, if you have one or two individuals who really like to hear themselves talk, they can end up dominating the discussion.
 If you have a smallish group that already knows each other, this can be easier to manage. But if you have a larger group and/or folks don’t know each other very well, the moderator will probably need to make some extra effort to make sure that everyone feels welcome to participate, and that the discussion isn’t dominated by the over-talkers."
 
 I agree that this is definitely something to look out for, but more applicable to general discussions than clinics. If the goal is to provide solutions, then there may indeed be a couple of experts who possess most of the relevant information. The facilitator needs to balance the need for solutions with the need to cultivate universal participation.
 
-@josephglass says: "I’ve found clinics to be very engaging but they also require more “crowd management”. With a well-prepared presentation, the quality largely depends on the speaker, and will be pretty much the same wherever it's presented.
+[Joseph Glass](https://twitter.com/JosephHGlass) says: "I’ve found clinics to be very engaging but they also require more “crowd management”. With a well-prepared presentation, the quality largely depends on the speaker, and will be pretty much the same wherever it's presented.
  
 "Clinics on the other hand depend on the quality of the participants. It might turn out to be a fantastic conversation of people sharing expertise and forming connections. Or maybe one over-talkative participant will hijack the conversation into irrelevant tangents. It can be a bit of a gamble unless you know the community you’re working with or have a really good moderator."
 
