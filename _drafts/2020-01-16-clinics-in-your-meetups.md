@@ -114,6 +114,12 @@ I agree that this is definitely something to look out for, but more applicable t
 
 Indeed, a really good moderator is the key. Perhaps that is a whole 'nother article. Anyone want to write it? :)
 
+## Philippines Ruby Meetup, January 2020
+
+I suggested experimenting with this clinic format to the organizers of the [Philippines Ruby Users Group](https://www.meetup.com/ruby-phil). They agreed, and roughly half the [meetup](https://www.meetup.com/ruby-phil/events/267773265/) was allocated for it.
+
+It turned out that only one person had a question, and several people answered it in complementary ways. Then there were no more questions. What to do? We morphed it into a general discussion. It was all engaging and interesting. Sometimes things don't go the way we expect. That's ok, we can adapt.
+
 ## Conclusion
 
 I describe in this article a solution that has worked for me, but of course there is an infinite number of combinations of attributes of a clinic, and your optimal mix may differ from mine. Any discussion can be engaging and informative, but for me the essentials of a _clinic_ are:
