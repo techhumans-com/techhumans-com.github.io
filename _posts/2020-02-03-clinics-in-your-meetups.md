@@ -145,4 +145,4 @@ I encouraged them to show things they had learned, and to help each other. As ti
 
 ----
 
-This article may be improved over time. To see its revisions you can go to its [Github commit history](https://github.com/techhumans-com/techhumans-com.github.io/commits/master/_drafts/2020-01-16-clinics-in-your-meetups.md).
+This article may be improved over time. To see its revisions you can go to its [Github commit history](https://github.com/techhumans-com/techhumans-com.github.io/commits/master/_posts/2020-02-03-clinics-in-your-meetups.md).
