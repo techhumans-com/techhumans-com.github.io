@@ -5,7 +5,7 @@ author: keithrbennett
 ---
 
 
-Information sharing at technical meetings consists almost exclusively of presentations. Although we all understand the value of having an expert share expertise with the rest of us, our cultural bias towards one-to-many communication results in many lost opportunities for cross-fertilization of knowledge and cultivation of connections among the group.
+Information sharing at technical meetings (aka "meetups") consists almost exclusively of presentations. Although we all understand the value of having an expert share expertise with the rest of us, our cultural bias towards one-to-many communication results in many lost opportunities for cross-fertilization of knowledge and cultivation of connections among the group.
 
 In contrast, a many-to-many medium of communication such as a discussion or clinic provides an environment in which knowledge, ideas, and solutions can emanate from, and be received by, anyone.
 
@@ -16,7 +16,7 @@ We are all familiar with presentations, so I will mainly talk about discussions 
 
 #### Multiple Sources of Information
 
-It's rare that a single person possesses all the knowledge in the room. When _anyone_ can speak, we are more likely to get higher quality information. (Of course, we are also more likely to get low quality information but the group can usually recognize and neutralize it.)
+It's rare that a single person possesses all the knowledge in the room. When _anyone_ can speak, we are more likely to get more high quality information. (Of course, we are also more likely to get more low quality information but the group can usually recognize and neutralize it.)
 
 
 #### Dialog vs. Monologue
@@ -33,7 +33,7 @@ There is a synergy in discussions that is absent in presentations. In discussion
 
 #### Greater Variety of Subject Matter
 
-Even if a meetup includes two presentations, the topics covered are narrow. Including discussions makes it more likely that people will find something in the meetup that is more relevant, and therefore more interesting, to them. Imagine, for example, the beginner who attends their first meetup, encountering specialized presentations that they do not understand, and then never returning, concluding that it is "not for them".
+Even if a meetup includes two presentations, the topics covered are narrow. Including discussions even for, say, fifteen minutes, makes it more likely that people will find something in the meetup that is more relevant, and therefore more interesting, to them. Imagine, for example, the beginner who attends their first meetup, encounters specialized presentations that they do not understand, and then never returns, concluding that the meetings are "not for them".
 
 
 #### Community Development
@@ -122,7 +122,7 @@ It turned out that only one person had a question, and several people answered i
 
 ## Conclusion
 
-I describe in this article a solution that has worked for me, but of course there is an infinite number of combinations of attributes of a clinic, and your optimal mix may differ from mine. Any discussion can be engaging and informative, but for me the essentials of a _clinic_ are:
+I describe in this article a formula that has worked for me, but of course there is an infinite number of combinations of attributes of a clinic, and your optimal mix may differ from mine. Any discussion can be engaging and informative, but for me the essentials of a _clinic_ are:
 
 * help people get the information they most need at the time
 * strive for universal and balanced participation
