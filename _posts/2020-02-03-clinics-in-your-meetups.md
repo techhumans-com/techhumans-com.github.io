@@ -1,6 +1,6 @@
 ---
 title: Clinics in Your Meetups
-date: 2020-01-16
+date: 2020-02-03
 author: keithrbennett
 ---
 
