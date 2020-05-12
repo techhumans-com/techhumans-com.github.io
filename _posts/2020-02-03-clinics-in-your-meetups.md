@@ -1,7 +1,10 @@
 ---
 title: Clinics in Your Meetups
-date: 2020-02-03
+published: true
+description: 
 author: keithrbennett
+tags: community, discussion, meetups, meetings
+canonical_url: https://techhumans.com/2020/02/03/clinics-in-your-meetups.html
 ---
 
 
