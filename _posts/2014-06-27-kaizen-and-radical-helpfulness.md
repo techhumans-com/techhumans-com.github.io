@@ -7,7 +7,8 @@ author: keithrbennett
 ### Context
 
 I recently spent two days with other students in a Kanban class (see Wikipedia’s definition of kanban [here](http://en.wikipedia.org/wiki/Kanban). An effective kanban system minimizes the degree to which any part of the process needs to wait for input from its predecessor (called blocking), and maximize task completion. Loosely associated with kanban is kaizen, which, in the western business world, signifies a process of continually improving operations based on feedback and experimentation from people at all levels of an organization.
-Ice Cream
+
+#### Ice Cream
 
 During the mid-afternoon break on the second day we were invited to go next door for free ice cream (!). I arrived to find a substantial line. (Backlog!) The process was quite inefficient. Each “customer” stepped up to the ice cream bar, took a scoop from a metal container filled with water, scooped his or her ice cream, and returned the scoop to the metal container. Making matters worse, the ice cream bar was located in a place that was ill-suited for this flow, so entering and exiting the scooping area made it take even more time.
 
