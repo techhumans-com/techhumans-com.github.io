@@ -6,7 +6,7 @@ author: keithrbennett
 
 ### Context
 
-I recently spent two days with other students in a Kanban class (see Wikipedia’s definition of kanban [here](http://en.wikipedia.org/wiki/Kanban). An effective kanban system minimizes the degree to which any part of the process needs to wait for input from its predecessor (called blocking), and maximize task completion. Loosely associated with kanban is kaizen, which, in the western business world, signifies a process of continually improving operations based on feedback and experimentation from people at all levels of an organization.
+I recently spent two days with other students in a Kanban class (see Wikipedia’s definition of kanban [here](http://en.wikipedia.org/wiki/Kanban)). An effective kanban system minimizes the degree to which any part of the process needs to wait for input from its predecessor (called blocking), and maximize task completion. Loosely associated with kanban is kaizen, which, in the western business world, signifies a process of continually improving operations based on feedback and experimentation from people at all levels of an organization.
 
 #### Ice Cream
 
