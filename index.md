@@ -9,6 +9,9 @@ destination: /blog
         <meta http-equiv="refresh" content="0; url={{ page.destination }}">
         <script type="text/javascript">
             window.location.href = "{{ page.destination }}"
+            if (window.location.hostname === "techhumans.com") {
+                window.location.href = "https://www.techhumans.com" + window.location.pathname + window.location.search;
+            }
         </script>
         <title>Page Redirection</title>
     </head>
